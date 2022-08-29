@@ -269,9 +269,7 @@
     
  }
 
-.form-1 input {
-    margin-left: 70px;
-}
+
 .box{
     width: 170px;
     height: 30px;
@@ -279,4 +277,5 @@
     text-align: center;
     border: 1px solid #b2bec3;
     color: #dff9fb;
+    margin-left: 100px;
 }
